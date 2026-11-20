@@ -38,7 +38,7 @@ I started as a BI & operations analyst, so I care about two things: **numbers pe
 
 | Project | What it shows | Status |
 |---|---|---|
-| **Charge Request Portal** | Small internal web app (FastAPI + SQLite) for submitting and approving logistics charges | 🚧 coming soon |
+| [**Charge Request Portal**](https://github.com/pavarotcn/charge-request-portal) | Small internal web app (FastAPI + SQLite) for submitting and approving logistics charges | ✅ [view repo](https://github.com/pavarotcn/charge-request-portal) |
 | **Excel ↔ Power Automate trigger-file pattern** | VBA writes one file per vendor plus a JSON trigger, and a cloud flow sends follow-ups; idempotent by design | 🚧 coming soon |
 | **RPA for systems without an API** | Power Automate Desktop architecture for legacy GUIs | 🚧 coming soon |
 | **Scheduled operations report** | Office Script + cloud flow → daily zipped report to SharePoint (latest + archive) | 🚧 coming soon |
